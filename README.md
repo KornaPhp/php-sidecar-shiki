@@ -1,8 +1,8 @@
 # Run Shiki highlighting with Sidecar
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/sidecar-shiki.svg?style=flat-square)](https://packagist.org/packages/spatie/sidecar-shiki)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/sidecar-shiki/run-tests?label=tests)](https://github.com/spatie/sidecar-shiki/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/spatie/sidecar-shiki/Check%20&%20fix%20styling?label=code%20style)](https://github.com/spatie/sidecar-shiki/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/sidecar-shiki/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/sidecar-shiki/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/sidecar-shiki/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/spatie/sidecar-shiki/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/sidecar-shiki.svg?style=flat-square)](https://packagist.org/packages/spatie/sidecar-shiki)
 
 [Shiki](https://github.com/shikijs/shiki) is a beautiful syntax highlighter powered by the same language engine that many code editors use.  This package allows you to run [Shiki](https://github.com/shikijs/shiki) on AWS Lambda through [Sidecar](https://github.com/hammerstonedev/sidecar).
